@@ -1,4 +1,5 @@
 # ᑭᖇOᒍEᑕT ᙭ᒪ
+
 "You got a brain?"
 
 **GODMODE + SPAWN TIMERS + MORE ABILITIES SPAMMABLE**
@@ -7,14 +8,14 @@ INFO/UPDATES:
 
 -Godmode has been added.
 -Unpatched hide name.
--Moku and Pika are now spammable.
+-Sleep, Moku, and Pika are now spammable.
 -Merged Abilities together so you don't have to pick buttons when you start up script.
--Brand new Spawn Timers labels. (Press L to hide them)
--Hide name notifier.
+-Brand new Spawn Timers labels which also glows yellow if the certain item is spawned in. (Press L to hide them)
+-Hide name notifier and Other keys label.
 
 NOTES:
 
-You must have either Kage/Mera/Moku/Pika equipped in order for SpamAbility to work.
+You must have either Sleep/Kage/Mera/Moku/Pika equipped in order for SpamAbility to work.
 Animations will freeze when using Godmode.
 Bringing items can also re-equip the current tool you have by its name. (So if you have a uneaten fruit with the same name its gonna be weird might fix later)
 Bringing items won't let you accidently eat or use any item.
